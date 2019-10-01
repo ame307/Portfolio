@@ -10,7 +10,7 @@ Coding Tomorrow Cup project - https://github.com/ame307/CodingTomorrowCup-2019</
 MONEI - https://github.com/ame307/Monei</br>
 Projects  for university - https://github.com/ame307/UniversityProjects
 
-##  Certifications about the competitions
+##  Awards
 
 [Coding Tomorrow Cup](https://github.com/ame307/Portfolio/blob/master/Certifications/ctc.png)</br>
 [ZeroToHero](https://github.com/ame307/Portfolio/blob/master/Certifications/zth.png)</br>
