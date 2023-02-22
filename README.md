@@ -4,12 +4,12 @@ Hello! My name is Lázár Dávid and this is my portfolio repository. Feel free 
 
 ## Projects
 
-~~Personal website - https://lazardavid.com/</br>~~
 ZOEL Webshop - https://github.com/ame307/ZOEL-Webshop</br>
 HackYeah Warsaw 2019 project - https://github.com/ame307/HackYeah-PhilipMorris-2019</br>
 Coding Tomorrow Cup project - https://github.com/ame307/CodingTomorrowCup-2019</br>
 MONEI - https://github.com/ame307/Monei</br>
 Projects  for university - https://github.com/ame307/UniversityProjects
+~~Personal website - https://lazardavid.com/</br>~~
 
 
 ##  Awards
