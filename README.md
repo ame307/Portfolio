@@ -8,7 +8,7 @@ ZOEL Webshop - https://github.com/ame307/ZOEL-Webshop</br>
 HackYeah Warsaw 2019 project - https://github.com/ame307/HackYeah-PhilipMorris-2019</br>
 Coding Tomorrow Cup project - https://github.com/ame307/CodingTomorrowCup-2019</br>
 MONEI - https://github.com/ame307/Monei</br>
-Projects  for university - https://github.com/ame307/UniversityProjects
+Projects  for university - https://github.com/ame307/UniversityProjects</br>
 ~~Personal website - https://lazardavid.com/</br>~~
 
 
